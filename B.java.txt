@@ -1,0 +1,8 @@
+Class B{
+	public static void main(String[] args)
+{
+ // bussiness logic 
+ // New transaction data
+
+}
+}
