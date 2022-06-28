@@ -1,7 +1,7 @@
-Class C{
+Class D{
 	public static void main(String[] args)
 {
- // HDFC logic
+ // Avalanch logic
 
 }
 }
